@@ -1,0 +1,14 @@
+{
+  "name": "rxjs-operators-examples",
+  "version": "1.0.0",
+  "description": "rxjs-operators with their explanation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lalit Rajput",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  }
+}
